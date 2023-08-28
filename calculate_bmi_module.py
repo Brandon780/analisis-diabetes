@@ -15,3 +15,4 @@ class BMICalculator:
         self.data["bmi"] = self.data["weight_si"] / self.data["height_si"] ** 2
         
         return self.data
+    
